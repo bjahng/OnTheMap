@@ -6,6 +6,13 @@ OnTheMap allows a Udacity student to share their location and website with other
 - You can view the location of fellow students either in map or list form
 - To add your own location and website, tap on the '+' icon
 
+![Login](https://github.com/bjahng/OnTheMap/blob/master/Screenshots/Login.png)
+![Map](https://github.com/bjahng/OnTheMap/blob/master/Screenshots/Map.png)
+![AddLocation](https://github.com/bjahng/OnTheMap/blob/master/Screenshots/AddLocation.png)
+![Buffalo](https://github.com/bjahng/OnTheMap/blob/master/Screenshots/Buffalo.png)
+![List](https://github.com/bjahng/OnTheMap/blob/master/Screenshots/List.png)
+![PinOnMap](https://github.com/bjahng/OnTheMap/blob/master/Screenshots/PinOnMap.png)
+
 ## Built With
 - UIKit
 - MapKit
